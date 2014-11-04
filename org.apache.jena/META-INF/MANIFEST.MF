@@ -199,4 +199,5 @@ Bundle-RequiredExecutionEnvironment: JavaSE-1.7
 Require-Bundle: org.slf4j.log4j12;bundle-version="1.0.0",
  org.apache.xerces;bundle-version="2.11.0",
  org.apache.jackson;bundle-version="2.3.3",
- org.apache.jsonld;bundle-version="0.5.0"
+ org.apache.jsonld;bundle-version="0.5.0",
+ org.apache.log4j;bundle-version="1.2.17"
