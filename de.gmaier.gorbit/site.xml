@@ -3,14 +3,14 @@
    <feature url="features/org.slf4j.log4j12.feature_1.0.0.jar" id="org.slf4j.log4j12.feature" version="1.0.0">
       <category name="de.gmaier.logging"/>
    </feature>
-   <feature url="features/org.apache.jackson.feature_2.3.3.jar" id="org.apache.jackson.feature" version="2.3.3">
-      <category name="de.gmaier.xml"/>
-   </feature>
    <feature url="features/org.apache.xerces.feature_2.11.0.jar" id="org.apache.xerces.feature" version="2.11.0">
       <category name="de.gmaier.xml"/>
    </feature>
    <feature url="features/org.apache.jena.feature_1.0.1.jar" id="org.apache.jena.feature" version="1.0.1">
       <category name="de.gmaier.semweb"/>
+   </feature>
+   <feature url="features/org.apache.jackson.feature_2.3.3.jar" id="org.apache.jackson.feature" version="2.3.3">
+      <category name="de.gmaier.xml"/>
    </feature>
    <category-def name="de.gmaier.logging" label="Logging"/>
    <category-def name="de.gmaier.semweb" label="Semantic Web"/>
