@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
-      id="org.apache.jena.feature"
-      label="Jena"
-      version="2.12.1.qualifier">
+      id="org.slf4j.log4j12.feature"
+      label="slf4j over log4j"
+      version="1.0.0.qualifier">
 
    <description url="http://www.example.com/description">
       [Enter Feature Description here.]
@@ -17,7 +17,22 @@
    </license>
 
    <plugin
-         id="org.apache.jena"
+         id="org.apache.log4j.config"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="org.slf4j.log4j"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="org.slf4j.log4j12"
          download-size="0"
          install-size="0"
          version="0.0.0"

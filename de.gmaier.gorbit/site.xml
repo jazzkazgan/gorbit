@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.slf4j.log4j12.feature_1.0.0.201411041148.jar" id="org.slf4j.log4j12.feature" version="1.0.0.201411041148">
+      <category name="de.gmaier.logging"/>
+   </feature>
+   <feature url="features/org.apache.jena.feature_1.0.0.201411041142.jar" id="org.apache.jena.feature" version="1.0.0.201411041142">
+      <category name="de.gmaier.semweb"/>
+   </feature>
+   <category-def name="de.gmaier.logging" label="Logging"/>
+   <category-def name="de.gmaier.semweb" label="Semantic Web"/>
+</site>
