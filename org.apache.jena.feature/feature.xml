@@ -16,15 +16,14 @@
       [Enter License Description here.]
    </license>
 
-   <plugin
-         id="org.apache.jena"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         unpack="false"/>
+   <requires>
+      <import plugin="org.slf4j.log4j12" version="1.0.0" match="greaterOrEqual"/>
+      <import feature="org.apache.xerces.feature" version="2.11.0"/>
+      <import feature="org.apache.jackson.feature" version="2.3.3"/>
+   </requires>
 
    <plugin
-         id="org.apache.xerces"
+         id="org.apache.jena"
          download-size="0"
          install-size="0"
          version="0.0.0"
