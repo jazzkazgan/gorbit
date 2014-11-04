@@ -2,7 +2,7 @@
 <feature
       id="org.slf4j.log4j12.feature"
       label="slf4j over log4j"
-      version="1.0.0.qualifier">
+      version="1.0.0">
 
    <description url="http://www.example.com/description">
       [Enter Feature Description here.]
