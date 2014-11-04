@@ -196,3 +196,4 @@ Export-Package: arq,
  tdb.cmdline,
  tdb.tools
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Require-Bundle: org.slf4j.log4j12;bundle-version="1.0.0"
