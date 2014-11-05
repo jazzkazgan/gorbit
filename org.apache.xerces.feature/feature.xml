@@ -2,7 +2,7 @@
 <feature
       id="org.apache.xerces.feature"
       label="Xerces"
-      version="2.11.0">
+      version="2.11.0.qualifier">
 
    <description url="http://www.example.com/description">
       [Enter Feature Description here.]
