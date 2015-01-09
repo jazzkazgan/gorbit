@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.slf4j.log4j12.feature_1.0.0.201501091055.jar" id="org.slf4j.log4j12.feature" version="1.0.0.201501091055">
+   <feature url="features/org.slf4j.log4j12.feature_1.0.0.201501091745.jar" id="org.slf4j.log4j12.feature" version="1.0.0.201501091745">
       <category name="de.gmaier.logging"/>
    </feature>
-   <feature url="features/org.apache.jena.feature_2.12.1.201501091055.jar" id="org.apache.jena.feature" version="2.12.1.201501091055">
+   <feature url="features/org.apache.jena.feature_2.12.1.201501091745.jar" id="org.apache.jena.feature" version="2.12.1.201501091745">
       <category name="de.gmaier.semweb"/>
    </feature>
    <category-def name="de.gmaier.logging" label="Logging"/>
