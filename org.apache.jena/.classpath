@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry exported="true" kind="lib" path="commons-codec-1.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="commons-csv-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="commons-lang3-3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="httpclient-4.2.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="httpclient-cache-4.2.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="httpcore-4.2.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="jackson-annotations-2.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="jackson-core-2.3.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="jackson-databind-2.3.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="jcl-over-slf4j-1.7.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="jena-arq-2.12.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="jena-core-2.12.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="jena-iri-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="jena-sdb-1.5.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="jena-tdb-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="jsonld-java-0.5.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libthrift-0.9.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
